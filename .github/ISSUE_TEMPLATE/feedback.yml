@@ -1,0 +1,18 @@
+name: Feedback
+description: Questions, translation suggestions, praise, anything else.
+labels: ["question"]
+body:
+  - type: markdown
+    attributes:
+      value: Issues are public, so please don't include private information.
+  - type: textarea
+    id: feedback
+    attributes:
+      label: Your feedback or question
+    validations:
+      required: true
+  - type: textarea
+    id: where
+    attributes:
+      label: Where in PathDiff
+      description: Optional. The window, menu or setting it's about. For a translation, quote the text and name the language.

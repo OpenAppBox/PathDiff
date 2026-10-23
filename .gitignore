@@ -1,0 +1,11 @@
+# macOS
+.DS_Store
+
+# Xcode per-user state and build products
+xcuserdata/
+DerivedData/
+build/
+*.xcresult
+
+# Screenshot tooling build output
+Tools/Screenshots/.build/

@@ -1,0 +1,62 @@
+name: Bug
+description: Something in PathDiff doesn't work as expected.
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for reporting a bug! Issues are public: please don't include private files, personal information or folder names you'd rather keep private.
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: What happened
+      description: What did you do, and what went wrong?
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: What you expected
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce
+      placeholder: |
+        1.
+        2.
+        3.
+  - type: input
+    id: pathdiff-version
+    attributes:
+      label: PathDiff version
+      description: PathDiff ▸ About PathDiff
+    validations:
+      required: true
+  - type: input
+    id: macos-version
+    attributes:
+      label: macOS version
+      description: Apple menu ▸ About This Mac
+    validations:
+      required: true
+  - type: textarea
+    id: folders
+    attributes:
+      label: Folders compared
+      description: Roughly how many files, which kinds (code, photos, videos), and where they are (internal disk, external drive, network share).
+  - type: dropdown
+    id: method
+    attributes:
+      label: Comparison method
+      description: Compare ▸ Compare Files By
+      options:
+        - Contents (byte by byte)
+        - Quick (size and date)
+        - Not sure
+  - type: textarea
+    id: extra
+    attributes:
+      label: Screenshots or logs
+      description: Optional. For scanning or syncing problems, see "Diagnostic logs" in SUPPORT.md.

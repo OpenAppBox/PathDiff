@@ -1,0 +1,22 @@
+name: Feature request
+description: Something you wish PathDiff did.
+labels: ["enhancement"]
+body:
+  - type: textarea
+    id: idea
+    attributes:
+      label: What you'd like PathDiff to do
+    validations:
+      required: true
+  - type: textarea
+    id: why
+    attributes:
+      label: Why it would help you
+      description: What are you comparing or syncing, and what gets in the way today?
+    validations:
+      required: true
+  - type: textarea
+    id: today
+    attributes:
+      label: How you do it today
+      description: Optional. A workaround or another tool you use for it.
