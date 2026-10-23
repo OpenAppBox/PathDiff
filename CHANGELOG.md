@@ -1,6 +1,6 @@
 # What's new in PathDiff
 
-## 1.0 · [RELEASE DATE]
+## 1.0 · 24 October 2026
 
 The first release.
 

@@ -30,7 +30,7 @@ No. It works entirely offline and collects no data. See the [privacy policy](../
 A Mac with Apple silicon running macOS 27 or later.
 
 **Where do I get PathDiff?**
-On the [Mac App Store]([APP_STORE_URL]). Updates arrive through the App Store too.
+On the [Mac App Store](https://apps.apple.com/app/id6826374257). Updates arrive through the App Store too.
 
 **How much does it cost?**
 PathDiff is free to download and comes with a free week. After that, a yearly subscription keeps everything unlocked: 3 USD a year in the US, or the local equivalent. With Family Sharing, up to five family members can use one subscription. Cancel any time in your App Store account settings.

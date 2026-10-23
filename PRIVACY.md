@@ -1,6 +1,6 @@
 # PathDiff privacy policy
 
-*Last updated: [DATE]*
+*Last updated: 24 October 2026*
 
 PathDiff is a Mac app that compares and syncs folders on your Mac. It is published by OpenAppBox.
 

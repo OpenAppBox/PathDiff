@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="[APP_STORE_URL]"><strong>Try it free on the Mac App Store</strong></a>
+  <a href="https://apps.apple.com/app/id6826374257"><strong>Try it free on the Mac App Store</strong></a>
   ·
   <a href="docs/FEATURES.md">All features</a>
   ·
@@ -113,7 +113,7 @@ English, Bahasa Indonesia, Dansk, Deutsch, Español, Français, Italiano, Nederl
 
 ## Get PathDiff
 
-PathDiff is available on the **[Mac App Store]([APP_STORE_URL])**. Try it free for a week; after that, a yearly subscription of 3 USD (or the local equivalent) keeps everything unlocked, and Family Sharing lets up to five family members use it. It needs a Mac with Apple silicon running macOS 27 or later. Updates arrive through the App Store.
+PathDiff is available on the **[Mac App Store](https://apps.apple.com/app/id6826374257)**. Try it free for a week; after that, a yearly subscription of 3 USD (or the local equivalent) keeps everything unlocked, and Family Sharing lets up to five family members use it. It needs a Mac with Apple silicon running macOS 27 or later. Updates arrive through the App Store.
 
 ## Feedback
 
